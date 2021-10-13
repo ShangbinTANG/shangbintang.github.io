@@ -15,7 +15,7 @@ sidebar:
   - title: "Role"
     text: "Team Leader, Designer, Data Analyst"
   - title: "Responsibilities"
-    text: "Co-developed of the project title, technical approach, and workflow. Scrapped the data used in this analysis and performed preliminary data analysis."
+    text: "Co-developing the project title, technical approach, and workflow. Scrapping the data used in this analysis and performing preliminary data analysis."
 gallery1: # Hot words in new titles.
   - url: /assets/images/project_collection/fakenews/dtmclean_1.jpg
     image_path: /assets/images/project_collection/fakenews/dtmclean_1.jpg
