@@ -1,16 +1,14 @@
 ---
 title: "Man, It's Cool in the Park"
 excerpt: "A remote sensing image analysis project, focusing on the cooling effect of vegetation and green spaces to reduce urban heat island effect in Pittsburgh."
+layout: single
 header:
-  image: /assets/images/project_collection/UrbanHeatIslandPitt/OneDayTemperature_Pitt_trimmed.jpg
+  overlay_image: /assets/images/project_collection/UrbanHeatIslandPitt/UHI_header.jpg
+  overlay_filter: rgba(0, 20, 0, .6)
   teaser: /assets/images/project_collection/UrbanHeatIslandPitt/OneDayTemperature_Pitt_trimmed.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Category"
+    text: "Personal project"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
