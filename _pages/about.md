@@ -1,10 +1,35 @@
 ---
 permalink: /about/
 title: "More about me"
+header:
+  overlay_image: /assets/images/more_about_me.jpg
+  #overlay_filter: rgba(34, 36, 33, .7)
+layout: single
 ---
+<br><br>
+<div style="background-color:#D0ECE7;">
+    <p style="font-family:Garamond;font-size:100%;text-align:center;line-height:50px;margin-top:35px;margin-bottom:35px; margin-left:35px; margin-right:35px"><br>In 2015, I graduated from Chang'an University, Xi'an, China, with a B.S. in Geographic Information Science and I'll graduate with M.S. degree in Geographical Information System and Remote Sensing from University of Pittsburgh in December, 2021.<br><br>I'm self-motivative and always excited to learn more new skills that can be applied in future works and studies.<br><br></p>
+    <p style="text-align:center">
+        <a href="/assets/Resume_ShangbinTang_20210302.pdf" class="btn btn--primary" target='_blank'> Resume.pdf</a>
+    </p><br>
+</div>
+<br>
+<h2>Skills</h2>
+<ul style="font-size:80%">
+    <li>Python</li>
+    <li>R</li>
+    <li>ArcGIS software and ArcGIS Pro</li>
+    <li>ERDAS</li>
+    <li>Data analysis</li>
+    <li>Data mining</li>
+    <li>Web scrapping</li>
+    <li>Piano</li>
+    <li>Painting</li>
+</ul>
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
-
-<a href="/assets/Resume_ShangbinTang_20210302.pdf"> Resume.pdf</a>
+## Languages
+<ul style="font-size:80%">
+    <li>English</li>
+    <li>Mandarin</li>
+    <li>Cantonese</li>
+</ul>
