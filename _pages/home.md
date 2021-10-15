@@ -34,7 +34,7 @@ feature_row3:
     alt: "Arts"
     title: "Arts"
     excerpt: "Vision is the easiest and most powerful way for us to understand and communicate with the world, and it is also my favorite way to record moments."
-    url: "/tags/"
+    url: "/arts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
