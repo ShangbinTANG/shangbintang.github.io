@@ -35,4 +35,4 @@ layout: single
     <li>Mandarin</li>
     <li>Cantonese</li>
 </ul>
-<button class='btn btn--primary btt'><i class="fas fa-angle-up"></i><a href="#page-title" style="text-decoration: none;color: white;">&nbsp;&nbsp;Back to top</a></button>
+<button class='btn btn--primary' id="btt"><i class="fas fa-angle-up"></i><a href="#page-title" style="text-decoration: none;color: white;">&nbsp;&nbsp;Back to top</a></button>

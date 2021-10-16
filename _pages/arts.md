@@ -125,4 +125,4 @@ author_profile: false
 <img class="artphoto" src="/assets/images/arts/windowView/012254978d4c0cbe55c6666b54ce048fb16a37c410.jpg">
 <img class="artphoto" src="/assets/images/arts/windowView/0162338288e4f5574c8fc75dbe6dc931d17fec2a3a.jpg">
 <!-- ----------back to top button----------- -->
-<button class='btn btn--primary btt'><i class="fas fa-angle-up"></i><a href="#page-title" style="text-decoration: none;color: white;">&nbsp;&nbsp;Back to top</a></button>
+<button class='btn btn--primary' id="btt"><i class="fas fa-angle-up"></i><a href="#page-title" style="text-decoration: none;color: white;">&nbsp;&nbsp;Back to top</a></button>
