@@ -5,7 +5,7 @@ layout: single
 #classes: wide
 header:
   overlay_image: /assets/images/project_collection/Project_VaxMap/ProjectVaxMap_header_v1.jpg
-  teaser: /assets/images/project_collection/Project_VaxMap/teaser - copy.jpg
+  teaser: /assets/images/project_collection/Project_VaxMap/teaser.jpg
   #overlay_filter: rgba(0, 0, 0, .8)
 sidebar:
   - title: "Authors"
