@@ -62,13 +62,13 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://shangbintang@github.io"
     - label: "Unsplash"
       icon: "fab fa-unsplash"
       url: "https://unsplash.com/@tang_shangbin"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/tang_shangbin/"
@@ -78,12 +78,12 @@ footer:
     - label: "Unsplash"
       icon: "fab fa-unsplash"
       url: "https://unsplash.com/@tang_shangbin"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/tang_shangbin/"
+
+atom_feed:
+  hide: true
 
 collections:
   portfolio:

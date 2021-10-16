@@ -8,7 +8,8 @@ layout: single
 ---
 <br><br>
 <div style="background-color:#D0ECE7;">
-    <p style="font-family:Garamond;font-size:100%;text-align:center;line-height:50px;margin-top:35px;margin-bottom:35px; margin-left:35px; margin-right:35px"><br>In 2015, I graduated from Chang'an University, Xi'an, China, with a B.S. in Geographic Information Science and I'll graduate with M.S. degree in Geographical Information System and Remote Sensing from University of Pittsburgh in December, 2021.<br><br>I'm self-motivative and always excited to learn more new skills that can be applied in future works and studies.<br><br></p>
+    <img src="/assets/images/bio-photo3.jpg" style="padding:10%">
+    <p style="font-family:Garamond;font-size:100%;text-align:center;line-height:50px;margin-top:35px;margin-bottom:35px; margin-left:35px; margin-right:35px">In 2015, I graduated from Chang'an University, Xi'an, China, with a B.S. in Geographic Information Science and I'll graduate with M.S. degree in Geographical Information System and Remote Sensing from University of Pittsburgh in December, 2021.<br><br>I'm self-motivative and always excited to learn more new skills that can be applied in future works and studies.<br><br></p>
     <p style="text-align:center">
         <a href="/assets/Resume_ShangbinTang_20210302.pdf" class="btn btn--primary" target='_blank'> Resume.pdf</a>
     </p><br>
@@ -16,6 +17,7 @@ layout: single
 <br>
 <h2>Skills</h2>
 <ul style="font-size:80%">
+    <li>Spatial analysis</li>
     <li>Python</li>
     <li>R</li>
     <li>ArcGIS software and ArcGIS Pro</li>

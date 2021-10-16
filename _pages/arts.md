@@ -102,7 +102,7 @@ author_profile: false
 </div>
 <div class = "row"></div>
 
-## Stunning views from my old apartment's window
+## Views from my window
 <img class="artphoto" src="/assets/images/arts/windowView/01b7f395b82ba615563775f1f0ef3ab660dccaab96.jpg">
 <img class="artphoto" src="/assets/images/arts/windowView/01bad4c312569f947cd51ccdf7e42e891be10d6f6b.jpg">
 <img class="artphoto" src="/assets/images/arts/windowView/01ddb874a3c292da84e35703f6a3139e6b7d6e3171.jpg">

@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+#  Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @charset "utf-8";
@@ -30,10 +30,16 @@
   clear: both;
 }
 
+
 .toc{
   position: fixed;
   left: 5%;
+  @media screen and (max-width: 1270px){
+    display:none
+  }
 }
+
+
 
 // .toc{
 //   font-size: 95%;
