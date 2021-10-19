@@ -25,6 +25,7 @@ layout: single
     <li>Data analysis</li>
     <li>Data mining</li>
     <li>Web scrapping</li>
+    <li>HTML<li>
     <li>Piano</li>
     <li>Painting</li>
 </ul>
