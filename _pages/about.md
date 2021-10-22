@@ -30,7 +30,7 @@ layout: single
     <li>Painting</li>
 </ul>
 
-## Languages
+<h2> Languages </h2>
 <ul style="font-size:80%">
     <li>English</li>
     <li>Mandarin</li>
