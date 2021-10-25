@@ -4,13 +4,14 @@ title: "Racial Disparities in Access to Potential COVID-19 Vaccine Administratio
 excerpt: "An analysis based on our previous COVID-19 vaccine administration facilities' accessibility evaluation project. "
 categories:
   - Publications
-link: https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13852
+# link: https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13852
 sidebar:
   - text: <br><br><br>
-  - title: "Authors"
-    text: "Jingchuan Guo,Sean Dickson,Lucas Berenbrok,Shangbin Tang,Utibe Essien,Kim Coley,Dr. Inmaculada Hernandez" 
   - title: "Role"
     text: "GIS Analyst"
+  - title: "Authors"
+    text: "Jingchuan Guo<br>Sean Dickson<br>Lucas Berenbrok<br>Shangbin Tang<br>Utibe Essien<br>Kim Coley<br>Dr. Inmaculada Hernandez" 
+  
 ---
 
 <figure >

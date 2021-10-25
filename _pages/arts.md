@@ -9,6 +9,7 @@ toc_label: "Arts"
 toc_icon: "palette" 
 author_profile: false
 ---
+
 # Painting
 ## Hand-painted
 <div class='column2'>
@@ -39,22 +40,9 @@ author_profile: false
     <img class="painting" src="/assets/images/arts/digital/016831aeb2607af3df54b33570b384e2aab44e6268.jpg">
 </div>
 <div class='row'></div>
+<br>
 
 # Photography
-## Vision
-<img class="artphoto" src="/assets/images/arts/vision/01e8e2e3def8462e47afaccd59a4d349c209c04f03.jpg">
-
-## The nature
-<img style="padding-top:10px; padding-right:10px; padding-left:10px;" src="/assets/images/arts/nature/0119a6d0801a2bfb32975e8d9848b86530b914b73e.jpg">
-<img style="padding-top:10px; padding-right:10px; padding-left:10px;" src="/assets/images/arts/nature/018fa6d47e623605750e6128369d9b0a79f0e81773.jpg">
-<div class='column2'>
-    <img class="artphoto" src="/assets/images/arts/nature/01c516a8cdf13bf7b4c7fd4ff2d5f30607c4e2aa60.jpg">
-</div>
-<div class='column2'>
-    <img class="artphoto" src="/assets/images/arts/nature/01f48b58151b83b2f0bc30cade13c1ca6788c7cd45.jpg">
-    <img class="artphoto" src="/assets/images/arts/nature/01e6fcfdec198b5ddabc321e01187f66ca2b91a827.jpg">
-</div>
-<div class = "row"></div>
 
 ## Botanical photos
 <!-- <img class="artphoto" src=""> -->
@@ -103,26 +91,46 @@ author_profile: false
 <div class = "row"></div>
 
 ## Views from my window
-<img class="artphoto" src="/assets/images/arts/windowView/01b7f395b82ba615563775f1f0ef3ab660dccaab96.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/01bad4c312569f947cd51ccdf7e42e891be10d6f6b.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/01ddb874a3c292da84e35703f6a3139e6b7d6e3171.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/01f29f033b0c40ae17aaec37ac43539e02487d4c48.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/01f31fc0b7fe19c77f71f0a335cc1f9ec224afdfb0.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/010c3c68a9057394443b2146b46d1de5108052fc72.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/012e8e761e99cee5af5405f1ced3012c5795d7ab7a.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/013aee2acbee6afa877554711c19df3ddfea6cad2f.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/016fe5252ec39a68b5cfdf689a149b94e6169ec374.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/019dac2f58830c4a573ec91aac9111714425c3111c.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/0107e4d03996562c122ecfb4930e96e74f18a57394.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/0109a0af3b5c8071305001433408e1bfe489e5e6c9.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/0156f6d8b75f1f3996f6f15f4a02f436a63bf9fe7a.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/0163adecd3e3c094a1e6b682bcd4b3231fc48a4536.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/0168da95ecdf7b25224033fe61057646cc95cfe6fb.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/01665dd4963563434724692fa49e1f8dd65d2f74fb.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/010348a88544646fb7558f7323353bdb6309ccf4d1.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/0189729a614b09b05c3bc021fac3459a227475d51b.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/01162227c50ac52466f958c3a0ab15f9ddf0935c97.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/012254978d4c0cbe55c6666b54ce048fb16a37c410.jpg">
-<img class="artphoto" src="/assets/images/arts/windowView/0162338288e4f5574c8fc75dbe6dc931d17fec2a3a.jpg">
+<div>
+    <img class="artphoto" src="/assets/images/arts/windowView/01b7f395b82ba615563775f1f0ef3ab660dccaab96.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/01bad4c312569f947cd51ccdf7e42e891be10d6f6b.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/01ddb874a3c292da84e35703f6a3139e6b7d6e3171.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/01f29f033b0c40ae17aaec37ac43539e02487d4c48.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/01f31fc0b7fe19c77f71f0a335cc1f9ec224afdfb0.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/010c3c68a9057394443b2146b46d1de5108052fc72.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/012e8e761e99cee5af5405f1ced3012c5795d7ab7a.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/013aee2acbee6afa877554711c19df3ddfea6cad2f.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/016fe5252ec39a68b5cfdf689a149b94e6169ec374.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/019dac2f58830c4a573ec91aac9111714425c3111c.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/0107e4d03996562c122ecfb4930e96e74f18a57394.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/0109a0af3b5c8071305001433408e1bfe489e5e6c9.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/0156f6d8b75f1f3996f6f15f4a02f436a63bf9fe7a.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/0163adecd3e3c094a1e6b682bcd4b3231fc48a4536.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/0168da95ecdf7b25224033fe61057646cc95cfe6fb.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/01665dd4963563434724692fa49e1f8dd65d2f74fb.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/010348a88544646fb7558f7323353bdb6309ccf4d1.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/0189729a614b09b05c3bc021fac3459a227475d51b.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/01162227c50ac52466f958c3a0ab15f9ddf0935c97.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/012254978d4c0cbe55c6666b54ce048fb16a37c410.jpg">
+    <img class="artphoto" src="/assets/images/arts/windowView/0162338288e4f5574c8fc75dbe6dc931d17fec2a3a.jpg">
+</div>
+
+## Vision
+<img class="artphoto" src="/assets/images/arts/vision/01e8e2e3def8462e47afaccd59a4d349c209c04f03.jpg">
+
+## The nature
+<img style="padding-top:10px; padding-right:10px; padding-left:10px;" src="/assets/images/arts/nature/0119a6d0801a2bfb32975e8d9848b86530b914b73e.jpg">
+<img style="padding-top:10px; padding-right:10px; padding-left:10px;" src="/assets/images/arts/nature/018fa6d47e623605750e6128369d9b0a79f0e81773.jpg">
+<div class='column2'>
+    <img class="artphoto" src="/assets/images/arts/nature/01c516a8cdf13bf7b4c7fd4ff2d5f30607c4e2aa60.jpg">
+</div>
+<div class='column2'>
+    <img class="artphoto" src="/assets/images/arts/nature/01f48b58151b83b2f0bc30cade13c1ca6788c7cd45.jpg">
+    <img class="artphoto" src="/assets/images/arts/nature/01e6fcfdec198b5ddabc321e01187f66ca2b91a827.jpg">
+</div>
+<div class = "row"></div>
+
+
+
 <!-- ----------back to top button----------- -->
 <button class='btn btn--primary' id="btt"><i class="fas fa-angle-up"></i><a href="#page-title" style="text-decoration: none;color: white;">&nbsp;&nbsp;Back to top</a></button>

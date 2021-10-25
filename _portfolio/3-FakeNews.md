@@ -8,14 +8,17 @@ header:
   teaser: /assets/images/project_collection/fakenews/TRUE-WC.png
   #overlay_filter: rgba(0, 0, 0, .8)
 sidebar:
-  - title: "Author"
-    text: "Shangbin Tang - Department of Geology and Environmental Science, University of Pittsburgh, Pittsburgh, Pennsylvania, USA" 
-  - text: "Chengchen Wang - Joseph M. Katz Graduate School of Business, University of Pittsburgh, Pittsburgh, Pennsylvania, USA"
-  - text: "Taylor Herb - School of Computing and Information, University of Pittsburgh, Pittsburgh, Pennsylvania, USA"
   - title: "Role"
     text: "Team Leader, Designer, Data Analyst"
   - title: "Responsibilities"
     text: "Co-developing the project title, technical approach, and workflow. Scrapping the data used in this analysis and performing preliminary data analysis."
+  - title: "Author"
+  - text: <p class="authorName">Shangbin Tang</p>
+  - text: <p class="authorAffliation">Department of Geology and Environmental Science, University of Pittsburgh</p>
+  - text: <p class="authorName">Chengchen Wang</p>
+  - text: <p class="authorAffliation">School of Computing and Information, University of Pittsburgh</p>
+  - text: <p class="authorName">Taylor Herb</p>
+  - text: <p class="authorAffliation">School of Computing and Information, University of Pittsburgh</p>
 gallery1: # Hot words in new titles.
   - url: /assets/images/project_collection/fakenews/dtmclean_1.jpg
     image_path: /assets/images/project_collection/fakenews/dtmclean_1.jpg

@@ -8,12 +8,12 @@ header:
   teaser: /assets/images/project_collection/Project_VaxMap/teaser.jpg
   #overlay_filter: rgba(0, 0, 0, .8)
 sidebar:
-  - title: "Authors"
-    text: "Lucas A. Berenbrok, Shangbin Tang, Kim C. Coley, Cristina Boccuti, Sean Dickson, and Inmaculada Hernandez" 
   - title: "Role"
     text: "GIS Analyst"
   - title: "Responsibilities"
     text: "Performing the GIS analysis and data analysis, designing and generating maps and plots"
+  - title: "Authors"
+    text: "Lucas A. Berenbrok<br> Shangbin Tang<br> Kim C. Coley<br> Cristina Boccuti<br> Sean Dickson<br> Inmaculada Hernandez" 
 gallery1: # big map
   - url: /assets/images/project_collection/Project_VaxMap/CoVax Big Map.jpg
     image_path: /assets/images/project_collection/Project_VaxMap/CoVax Big Map.jpg
@@ -36,7 +36,7 @@ gallery2:
 ---
 <p style="color:grey"><em>Key words: GIS, COVID-19, Vaccine, Network analysis</em></p>
 
-<p style="margin-top:75px; color:grey">This is a nationwide geospatial analysis that has been published as a white paper and has been quoted by <a href="https://www.nytimes.com/2021/02/18/world/us-coronavirus-vaccine-minorities.html?smid=tw-share" target="_blank"> NY Times</a>, <a href="https://www.npr.org/2021/02/05/962946721/across-the-south-covid-19-vaccine-sites-missing-from-black-and-hispanic-neighbor" target="_blank"> NPR</a>, CNN(<a href="https://www.npr.org/2021/02/05/962946721/across-the-south-covid-19-vaccine-sites-missing-from-black-and-hispanic-neighbor" target="_blank"> story 1: America's biggest cities face racial inequities in vaccine distribution</a>, <a href="https://edition.cnn.com/2021/03/02/health/rural-pharmacy-deserts-covid-vaccines-khn/index.html" target="_blank">story2: Rural Americans in pharmacy deserts hurting for Covid-19 vaccines</a>), <a href = "https://cnnespanol.cnn.com/video/vacunas-covid19-proceso-vacunacion-opciones-para-mejorar-rapidez-acesso-intv-xavier-serbia-cnn-dinero/" target="_blank"> CNN Español</a>, <a href = "https://www.nbcnews.com/health/health-news/inside-chaotic-first-days-effort-vaccinate-america-n1251944" target="_blank">NBC News</a>, <a href = "https://www.politico.com/news/2020/12/18/pharmacies-vaccine-push-unequal-access-448478" target="_blank">Politico</a>, and other medias. </p>
+<p style="margin-top:75px; color:grey">This is a nationwide geospatial analysis that has been published as a white paper and has been quoted by <a href="https://www.nytimes.com/2021/02/18/world/us-coronavirus-vaccine-minorities.html?smid=tw-share" target="_blank"> NY Times</a>, <a href="https://www.npr.org/2021/02/05/962946721/across-the-south-covid-19-vaccine-sites-missing-from-black-and-hispanic-neighbor" target="_blank"> NPR</a>, CNN(<a href="https://www.npr.org/2021/02/05/962946721/across-the-south-covid-19-vaccine-sites-missing-from-black-and-hispanic-neighbor" target="_blank"> story 1</a>, <a href="https://edition.cnn.com/2021/03/02/health/rural-pharmacy-deserts-covid-vaccines-khn/index.html" target="_blank">story2</a>), <a href = "https://cnnespanol.cnn.com/video/vacunas-covid19-proceso-vacunacion-opciones-para-mejorar-rapidez-acesso-intv-xavier-serbia-cnn-dinero/" target="_blank"> CNN Español</a>, <a href = "https://www.nbcnews.com/health/health-news/inside-chaotic-first-days-effort-vaccinate-america-n1251944" target="_blank">NBC News</a>, <a href = "https://www.politico.com/news/2020/12/18/pharmacies-vaccine-push-unequal-access-448478" target="_blank">Politico</a>, and other medias. </p>
 
 
 {% include gallery id = "gallery1" caption="" %}

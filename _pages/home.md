@@ -7,8 +7,9 @@ header:
   overlay_image: /assets/images/HomePageHeadPic.jpg
   overlay_filter: rgba(34, 36, 33, .7)
 excerpt: > # text on the header image
-  <br />A passionate GIS analyst, data analyst, and artist, committed to exploring data, communicating information with plots and maps.<br /><br />
-  <small><i class="fas fa-fw fa-envelope"/><a href="mailto:shangbin.tang@outlook.com"> shangbin.tang@outlook.com</a></small>
+  <br />A passionate GIS analyst, data analyst, and artist committed to exploring data and communicating information with plots and maps.<br><br>
+  <small><i class="fas fa-fw fa-envelope"/>&nbsp;<a href="mailto:shangbin.tang@outlook.com"> shangbin.tang@outlook.com</a></small><br>
+  <small>&nbsp;<i class="fas fa-file-pdf"></i>&nbsp;&nbsp;<a href="/assets/Shangbin Tang_resume.pdf" target="_blank"> Resume</a></small>
 
 intro: 
   - excerpt: ''
