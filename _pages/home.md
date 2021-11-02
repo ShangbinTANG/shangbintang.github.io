@@ -15,7 +15,7 @@ intro:
   - excerpt: ''
 
 feature_row1:
-  - image_path: /assets/images/project_collection.jpg
+  - image_path: /assets/images/project_collection2.jpg
     alt: "Portfolio"
     title: "Portfolio"
     excerpt: "Take a look at these interesting projects, including data mining, data visualization, spatial analysis, network analysis, and remote sensing image processing & analysis. Some of them helped and are still helping with the COVID-19 vaccine allocation."
