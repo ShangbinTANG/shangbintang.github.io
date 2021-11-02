@@ -47,8 +47,8 @@ src="https://arcgis.com/apps/webappviewer/index.html?id=3adc904387fd4c5597f75500
 <p style="color: gray; font-size: 0.8em">Zoom in/out or move the map to update statistics in the infographics. Click <a href="https://pitt.maps.arcgis.com/apps/webappviewer/index.html?id=3adc904387fd4c5597f75500bed2b7e8" target="_blank">here</a> to launch the map in full screen.</p>
 
 <br>
-In April 2021, we created this interactive web map to help policymakers better identify regions and providers with a greater need for COVID-19 vaccines. With our help, pharmacies in medically underserved areas (MUAs) of Pennsylvania have gained access to more COVID-19 the PA Department of Health. It is also covered by <a href="https://apnews.com/article/health-pennsylvania-coronavirus-ee32cd09c0444c7a8e4e11b91de27069?mc_cid=3850d5ca34&mc_eid=9878c63252" target="_blank">AP NEWS: Pennsylvania plans to send vaccine to more providers</a>.
-<br>
+In April 2021, we created this interactive web map to help policymakers better identify regions and providers with a greater need for COVID-19 vaccines. With our help, pharmacies in medically underserved areas (MUAs) of Pennsylvania have gained access to more COVID-19 vaccine from the PA Department of Health. It is also covered by <a href="https://apnews.com/article/health-pennsylvania-coronavirus-ee32cd09c0444c7a8e4e11b91de27069?mc_cid=3850d5ca34&mc_eid=9878c63252" target="_blank">AP NEWS: Pennsylvania plans to send vaccine to more providers</a>.
+<br><br>
 <div style="background-color: #E7E7E7; padding-top: 15px; padding-left: 10px; padding-right: 10px; padding-bottom: 5px;">
   <p style="color: gray; font-size: 0.8em">Medically Underserved Areas/Populations are areas or populations designated by <a href="https://data.hrsa.gov/" target="_blank">HRSA</a> as having too few primary care providers, high infant mortality, high poverty or a high elderly population. <br>(source: <a href="https://data.hrsa.gov/" target="_blank">https://data.hrsa.gov/</a>)</p>
 </div>
