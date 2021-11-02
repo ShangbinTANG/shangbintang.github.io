@@ -42,7 +42,9 @@ sidebar:
 <p style="color:grey"><em>Key words: GIS, Medically underserved areas, COVID-19, Vaccine</em></p>
 
 
-<iframe width="1050" height="700" scrolling="no" marginheight="0" marginwidth="0" 
+<!-- <iframe width="1050" height="700" scrolling="no" marginheight="0" marginwidth="0" 
+src="https://arcgis.com/apps/webappviewer/index.html?id=3adc904387fd4c5597f75500bed2b7e8"></iframe> -->
+<iframe width="170%" height="700" scrolling="no" marginheight="0" marginwidth="0" 
 src="https://arcgis.com/apps/webappviewer/index.html?id=3adc904387fd4c5597f75500bed2b7e8"></iframe>
 <p style="color: gray; font-size: 0.8em">Zoom in/out or move the map to update statistics in the infographics. Click <a href="https://pitt.maps.arcgis.com/apps/webappviewer/index.html?id=3adc904387fd4c5597f75500bed2b7e8" target="_blank">here</a> to launch the map in full screen.</p>
 
