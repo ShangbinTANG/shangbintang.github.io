@@ -5,9 +5,8 @@ header:
   overlay_image: /assets/images/more_about_me.jpg
   #overlay_filter: rgba(34, 36, 33, .7)
 layout: single
+#classes: wide
 ---
-<a id="top"></a>
-<button type="button" href="#top" class="bct">Back to top</button>
 <br><br>
 <div style="background-color:#D0ECE7;">
     <img src="/assets/images/bio-photo3.jpg" style="padding:10%">
@@ -27,13 +26,16 @@ layout: single
     <li>Data analysis</li>
     <li>Data mining</li>
     <li>Web scrapping</li>
+    <li>HTML, CSS, and JavaScript</li>
     <li>Piano</li>
     <li>Painting</li>
 </ul>
 
-## Languages
+<h2> Languages</h2>
 <ul style="font-size:80%">
     <li>English</li>
     <li>Mandarin</li>
     <li>Cantonese</li>
 </ul>
+
+<button class='btn btn--primary' id="btt"><i class="fas fa-angle-up"></i><a href="#page-title" style="text-decoration: none;color: white;">&nbsp;&nbsp;Back to top</a></button>

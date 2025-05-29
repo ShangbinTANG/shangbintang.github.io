@@ -30,21 +30,36 @@
   clear: both;
 }
 
-
 .toc{
   position: fixed;
   left: 5%;
   @media screen and (max-width: 1270px){
-    display:none
+    display: none;
   }
 }
 
-.bct {
+#btt{
   position: fixed;
-  bottom: 10px;
-  right: 10px;
+  right: 2%;
+  bottom: 15%;
+  background-color: #ABB2B9;
+  opacity:0.8;
 }
 
+.authorName{
+  // text-align: center;
+  margin-bottom: 0px;
+}
+p.authorTitle{
+  // text-align: center;
+  margin: 0px;
+  font-size: 0.6em;
+}
+p.authorAffliation{
+  // text-align: center;
+  margin: 0px;
+  font-size: 0.6em;
+}
 // .toc{
 //   font-size: 95%;
 //   @media screen and (max-width: #{$large}) {

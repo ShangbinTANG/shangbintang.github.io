@@ -47,7 +47,7 @@ The <a href="https://en.wikipedia.org/wiki/Urban_heat_island" target="_blank">ur
 
 {% include gallery id="gallery1" caption="Figure 1. Ground surface temperature extracted<br>Figure 2. Normalized Difference Vegetation Index (NDVI) <br> Figure 3. Urban Heat Island (UHI) index<br>Figure 4. Correlation coefficient between NDVI and UHI"%}
 
-Resultw show that the urban heat island effet is more obvious during summer and winter. During summer, the strong negative correlation between the vegetation's growing condition and urban heat island effect suggests that plants can cool down and patially cancel the heat.
+Results show that the urban heat island effet is more obvious during summer and winter. During summer, the strong negative correlation between the vegetation's growing condition and urban heat island effect suggests that plants can cool down and patially cancel the heat.
 
 ### Heat islands and cool zones
 {% include gallery id = "gallery2" caption = "Figure 5. Population density of Pittsburgh (by neighborhood)<br>Figure 6. Average UHI index in PIttsburgh<br> Figure 7. Major heat island areas in Pittsburgh"%}

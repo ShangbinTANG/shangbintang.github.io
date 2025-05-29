@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "Shangbin Tang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A passionate GIS analyst, data analyst, and artist, committed to exploring data, communicating information with plots and maps."
+  bio    : "A passionate GIS analyst, data analyst, and artist committed to exploring data and communicating information with plots and maps."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://shangbintang@github.io"
+      url: "https://shangbintang.github.io"
     - label: "Unsplash"
       icon: "fab fa-unsplash"
       url: "https://unsplash.com/@tang_shangbin"
