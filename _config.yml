@@ -16,7 +16,7 @@
 title: Shangbin Tang
 email: Shangbin.tang@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A passionate GIS analyst, data analyst, and artist, committed to exploring data, communicating information with plots and maps.
+  Collaborative research data analyst with a focus on healthcare, geospatial, and population-level data. Skilled in building reproducible analytics workflows and translating complex data into actionable insights that support public health research, resource planning, and evidence-based decision-making.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Shangbin Tang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A passionate GIS analyst, data analyst, and artist committed to exploring data and communicating information with plots and maps."
+  bio    : "Collaborative research data analyst with a focus on healthcare, geospatial, and population-level data. Skilled in building reproducible analytics workflows and translating complex data into actionable insights that support public health research, resource planning, and evidence-based decision-making."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
