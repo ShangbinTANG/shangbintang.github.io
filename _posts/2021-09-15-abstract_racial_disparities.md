@@ -8,7 +8,7 @@ categories:
 sidebar:
   - text: <br><br><br>
   - title: "Role"
-    text: "GIS Analyst"
+    text: "Data Analyst"
   - title: "Authors"
     text: "Jingchuan Guo<br>Sean Dickson<br>Lucas Berenbrok<br>Shangbin Tang<br>Utibe Essien<br>Kim Coley<br>Dr. Inmaculada Hernandez" 
   

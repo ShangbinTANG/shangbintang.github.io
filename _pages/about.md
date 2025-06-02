@@ -10,7 +10,8 @@ layout: single
 <br><br>
 <div style="background-color:#D0ECE7;">
     <img src="/assets/images/bio-photo3.jpg" style="padding:10%">
-    <p style="font-family:Garamond;font-size:100%;text-align:center;line-height:50px;margin-top:35px;margin-bottom:35px; margin-left:35px; margin-right:35px">In 2015, I graduated from Chang'an University, Xi'an, China, with a B.S. in Geographic Information Science and I'll graduate with an M.S. degree in Geographical Information System and Remote Sensing from University of Pittsburgh in December, 2021.<br><br>I'm self-motivative and always excited to learn more new skills that can be applied in future works and studies.<br><br></p>
+    <p style="font-family:Garamond;font-size:100%;text-align:center;line-height:50px;margin-top:35px;margin-bottom:35px; margin-left:35px; margin-right:35px">I earned my M.S. degree in Geographic Information Systems and Remote Sensing from the University of Pittsburgh in December 2021, following a B.S. in Geographic Information Science from Chang'an University, Xi'an, China, in 2019.<br><br>Since 2022, I’ve been working as a research data analyst, where I support data-driven research projects with analytical insight and spatial expertise. I’m always curious, self-motivated, and eager to expand my technical skill set to better support scientific discovery.<br><br></p>
+
     <p style="text-align:center">
         <a href="/assets/Resume_ShangbinTANG_version20250512.pdf" class="btn btn--primary" target='_blank'> Resume.pdf</a>
     </p><br>
@@ -18,24 +19,23 @@ layout: single
 <br>
 <h2>Skills</h2>
 <ul style="font-size:80%">
-    <li>Spatial analysis</li>
-    <li>Python</li>
-    <li>R</li>
-    <li>ArcGIS software and ArcGIS Pro</li>
-    <li>ERDAS</li>
-    <li>Data analysis</li>
-    <li>Data mining</li>
-    <li>Web scrapping</li>
-    <li>HTML, CSS, and JavaScript</li>
-    <li>Piano</li>
-    <li>Painting</li>
+    <li>Cleaning, filtering, processing, and integrating large-scale datasets from diverse sources, including healthcare insurance claims, census data, and synthetic populations</li><br>
+    <li>Big data mining, web scraping, and working with APIs for data access and intergration</li><br>
+    <li>Designing and automating batch data acquisition, processing, and transformation workflows</li><br>
+    <li>Spatial analysis using both GIS software and code; proficient in transforming between tabular and spatial data formats</li><br>
+    <li>Programming: Python, R, SAS, SQL, HTML, CSS, JavaScript</li><br>
+    <li>Piano</li><br>
+    <li>Painting</li><br>
+    <li>Knitting and crocheting</li><br>
+    <li>Cat care specialist – especially skilled in snack distribution and lap warming logistics</li><br>
 </ul>
+
+
 
 <h2> Languages</h2>
 <ul style="font-size:80%">
-    <li>English</li>
-    <li>Mandarin</li>
-    <li>Cantonese</li>
+    <li>English</li><br>
+    <li>Chinese: Mandarin, Cantonese</li>
 </ul>
 
 <button class='btn btn--primary' id="btt"><i class="fas fa-angle-up"></i><a href="#page-title" style="text-decoration: none;color: white;">&nbsp;&nbsp;Back to top</a></button>
