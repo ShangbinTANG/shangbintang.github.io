@@ -89,6 +89,8 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+    sort_by: order
+    sort_order: reverse
 
 defaults:
   # _pages
@@ -119,6 +121,7 @@ defaults:
 portfolio:
   path: /portfolio/
   type: portfolio
+  
 
 
 category_archive:
